@@ -3,7 +3,7 @@
 |Código|Função|
 |-|:-:|
 |cls|Limpa histórico|
-|cd|Acessa a pasta|
+|cd[nome da pasta]|Acessa a pasta|
 |cd..|Sai da pasta|
 |dir|Mostra conteúdo da pasta|
 |type nul > [nome do arquivo].[tipo de arquivo] |Cria arquivo|
