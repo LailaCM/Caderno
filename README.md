@@ -12,5 +12,5 @@
 |rmdir [nome da pasta]|Deleta pasta|
 |copy [link do arquivo][nome do arquivo] [link da pasta pra onde deve ser copiado]|Copia o arquivo pra outra pasta|
 |move [link do arquivo][nome do arquivo] [link da pasta pra onde deve ser copiado]|Move arquivo|
-|move [nome do arquivo] .. \[pasta]\| Opção alt para mover arquivo|
+|move [nome do arquivo] ..\ [pasta]\|Opção alt para mover arquivo|
 
