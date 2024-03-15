@@ -1,5 +1,5 @@
 # Anotações - prompt de comando
-### win+r+cmd
+- win+r+cmd
 |Código|Função|
 |-|:-:|
 |cls|Limpa histórico|
