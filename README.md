@@ -16,7 +16,7 @@
 |move *[tipo de arquivo] .[pasta]|Opção alt para mover arquivo|
 |tree /F|"Árvore" das pastas criadas|
 
-## Atividade - 15/03
+### Atividade - 15/03
 <img src="https://i.pinimg.com/736x/d8/97/07/d897074e0fe91a121411e1b6d539e2e9.jpg" style="width:500px">
 
 # Anotações - Git Bash
@@ -26,3 +26,4 @@
 |Git add .|Acessar a pasta|
 |Git commit -m "[nome]"|Nomear a alteração|
 |Git push|Postar|
+|Code .|Abrir com VS|
