@@ -4,6 +4,7 @@
 |-|:-:|
 |cd|Acessa a pasta|
 |cd..|Sai da pasta|
+|Dir|Mostra conteúdo da pasta|
 |type nul > [nome do arquivo].[tipo de arquivo] |Cria arquivo|
 |del [nome do arquivo].[tipo de arquivo]|Deleta arquivo|
 |mkdir [nome da pasta]|Cria pasta|
