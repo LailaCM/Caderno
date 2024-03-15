@@ -27,3 +27,12 @@
 |Git commit -m "[nome]"|Nomear a alteração|
 |Git push|Postar|
 |Code .|Abrir com VS|
+
+# Anotações - VS
+|Código|Função|
+|-|:-:|
+|crtl+K+V|Pre-visualização|
+|#|Título|
+|-|Tópico|
+|<img src="[link da imagem]"|Inserir imagem|
+|style="width:[tamanho]px"|Tamanho da imagem|
