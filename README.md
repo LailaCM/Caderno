@@ -2,6 +2,7 @@
 ### win+r+cmd
 |Código|Função|
 |-|:-:|
+|cls|Limpa histórico|
 |cd|Acessa a pasta|
 |cd..|Sai da pasta|
 |Dir|Mostra conteúdo da pasta|
