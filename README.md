@@ -15,5 +15,4 @@
 |move *[tipo de arquivo] .[pasta]|Opção alt para mover arquivo|
 
 # Atividade - 15/03
-
-<img src="https://i.pinimg.com/736x/d8/97/07/d897074e0fe91a121411e1b6d539e2e9.jpg"style="width:100px">
+<img src="https://i.pinimg.com/736x/d8/97/07/d897074e0fe91a121411e1b6d539e2e9.jpg" style="width:100px">
