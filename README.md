@@ -3,17 +3,25 @@
 |Código|Função|
 |-|:-:|
 |cls|Limpa histórico|
-|cd[nome da pasta]|Acessa a pasta|
-|cd..|Sai da pasta|
-|dir|Mostra conteúdo da pasta|
-|type nul > [nome do arquivo].[tipo de arquivo] |Cria arquivo|
-|del [nome do arquivo].[tipo de arquivo]|Deleta arquivo|
-|mkdir [nome da pasta]|Cria pasta|
-|rmdir [nome da pasta]|Deleta pasta|
-|copy [nome do arquivo] [link da pasta pra onde deve ser copiado]|Copia o arquivo pra outra pasta|
-|move [nome do arquivo] [link da pasta pra onde deve ser copiado]|Move arquivo|
+|cd[nome da pasta]|Acessar a pasta|
+|cd..|Sair da pasta|
+|dir|Mostrar conteúdo da pasta|
+|type nul > [nome do arquivo].[tipo de arquivo] |Criar arquivo|
+|del [nome do arquivo].[tipo de arquivo]|Deletar arquivo|
+|mkdir [nome da pasta]|Criar pasta|
+|rmdir [nome da pasta]|Deletar pasta|
+|copy [nome do arquivo] [link da pasta pra onde deve ser copiado]|Copiar o arquivo pra outra pasta|
+|move [nome do arquivo] [link da pasta pra onde deve ser copiado]|Mover arquivo|
 |move *[tipo de arquivo] .[pasta]|Opção alt para mover arquivo|
 |tree /F|"Árvore" das pastas criadas|
 
-# Atividade - 15/03
+## Atividade - 15/03
 <img src="https://i.pinimg.com/736x/d8/97/07/d897074e0fe91a121411e1b6d539e2e9.jpg" style="width:500px">
+
+# Anotações - Git Bash
+|Código|Função|
+|-|:-:|
+|Git clone [link do repositório]|Clonar o repositório|
+|Git add .|Acessar a pasta|
+|Git commit -m "[nome]"|Nomear a alteração|
+|Git push|Postar|
