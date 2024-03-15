@@ -1,5 +1,4 @@
-# Caderno
-## Anotações - prompt de comando
+# Anotações - prompt de comando
 ### win+r+cmd
 |Código|Função|
 |-|:-:|
