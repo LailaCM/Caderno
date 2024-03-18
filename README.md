@@ -34,5 +34,6 @@
 |crtl+K+V|Pre-visualização|
 |#|Título|
 |-|Tópico|
-|<img src="[link da imagem]"|Inserir imagem|
+|<img src="[link da imagem]">|Inserir imagem|
 |style="width:[tamanho]px"|Tamanho da imagem|
+|<p align="center"> [introduza a imagem] </p>|Alinhar imagem no centro da tela|
