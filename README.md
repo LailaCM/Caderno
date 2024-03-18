@@ -36,4 +36,6 @@
 |-|Tópico|
 |<img src="[link da imagem]"|Inserir imagem|
 |style="width:[tamanho]px"|Tamanho da imagem|
-|<p align="center"> [introduza a imagem] </p>|Alinhar imagem no centro da tela|
+|<p align="center"> [introduza a imagem] </p|Alinhar imagem no centro da tela|
+|```C [código]```|Bloco de cod|
+obs: sempre feche o <>
