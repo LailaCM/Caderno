@@ -43,3 +43,4 @@
 |```*** ***```|Negrito e Itálico|
 |```<sub> </sub>```|Subscrito|
 |```<sup> </sup>```|Sobrescrito|
+|```<br>```|Pula linha|
