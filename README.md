@@ -55,5 +55,8 @@
 |```cd wampp/mysql/bin```|Entrar na pasta correta|
 |```mysql -u root```|Entrar em modo myqls|
 |```show databases;```|Mostrar os dados|
-|```create databases;```|Criar base de dados|
-|```drop databases;```|Deletar base de dados|
+|```create database [nome da database];```|Criar base de dados|
+|```drop database [nome da database];```|Deletar base de dados|
+|```use [nome da database]```|Entar em base de dados|
+|```create table [colunas]```|Criar tabelas|
+|```show tables```|Mostrar tabelas|
