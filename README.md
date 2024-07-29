@@ -15,6 +15,7 @@
 |```move [nome do arquivo] [link da pasta pra onde deve ser copiado]```|Mover arquivo|
 |```move *[tipo de arquivo] .[pasta]```|Opção alt para mover arquivo|
 |```tree /F```|"Árvore" das pastas criadas|
+|```nano [nome do arquivo]```| Edita o arquivo|
 
 ### Atividade - 15/03
 <img src="https://i.pinimg.com/736x/d8/97/07/d897074e0fe91a121411e1b6d539e2e9.jpg" style="width:500px">
@@ -44,3 +45,15 @@
 |```<sub> </sub>```|Subscrito|
 |```<sup> </sup>```|Sobrescrito|
 |```<br>```|Pula linha|
+
+
+# Anotações - BCD/Wampp
+
+|Código|Função|
+|-|:-:|
+|```cd\```|Sair de todas as pastas atuais|
+|```cd wampp/myqls/bin```|Entrar na pasta correta|
+|```myqls -u root```|Entrar em modo myqls|
+|```show databases;```|Mostrar os dados|
+|```create databases;```|Criar base de dados|
+|```drop databases;```|Deletar base de dados|
