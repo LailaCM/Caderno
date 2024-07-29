@@ -52,8 +52,8 @@
 |Código|Função|
 |-|:-:|
 |```cd\```|Sair de todas as pastas atuais|
-|```cd wampp/myqls/bin```|Entrar na pasta correta|
-|```myqls -u root```|Entrar em modo myqls|
+|```cd wampp/mysql/bin```|Entrar na pasta correta|
+|```mysql -u root```|Entrar em modo myqls|
 |```show databases;```|Mostrar os dados|
 |```create databases;```|Criar base de dados|
 |```drop databases;```|Deletar base de dados|
