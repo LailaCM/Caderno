@@ -47,12 +47,12 @@
 |```<br>```|Pula linha|
 
 
-# Anotações - BCD/Wampp
+# Anotações - BCD/Xampp
 
 |Código|Função|
 |-|:-:|
 |```cd\```|Sair de todas as pastas atuais|
-|```cd wampp/mysql/bin```|Entrar na pasta correta|
+|```cd xampp/mysql/bin```|Entrar na pasta correta|
 |```mysql -u root```|Entrar em modo myqls|
 |```show databases;```|Mostrar os dados|
 |```create database [nome da database];```|Criar base de dados|
