@@ -60,3 +60,17 @@
 |```use [nome da database]```|Entar em base de dados|
 |```create table [colunas]```|Criar tabelas|
 |```show tables```|Mostrar tabelas|
+
+# Conceitos de Qualidade de Software e Requisitos
+
+| Termo                     | Definição                                                                 | Exemplo                                                              |
+|--------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Defeito**              | Apresenta imperfeição, mas continua funcionando                           | Carro amassado, mas ainda roda                                      |
+| **Falha**                | O sistema não funciona corretamente                                       | Internet que cai ou não conecta                                     |
+| **Eficaz**               | Alcança o objetivo, mesmo que com baixa performance                       | Time que joga mal, mas vence o jogo                                 |
+| **Eficiente**            | Executa as tarefas com qualidade, mesmo que não alcance o objetivo final  | Time que joga bem, mas perde o jogo                                 |
+| **Qualitativa**          | Usa comparações lógicas/relacionais                                       | `<`, `>`, `!=`, `==`                                                 |
+| **Quantitativa**         | Trabalha com valores numéricos e operações matemáticas                    | `+`, `-`, `*`, `/`                                                   |
+| **Requisito Funcional**  | O que o sistema deve fazer (funções e comportamentos)                     | WhatsApp enviar mensagem                                             |
+| **Requisito Não Funcional** | Descreve qualidades como desempenho, segurança ou tecnologias usadas     | Sistema feito em JavaScript com banco PostgreSQL                    |
+
